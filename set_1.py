@@ -94,7 +94,8 @@ def interest(principal, rate, periods):
     -------
     int
         the final value of the investment
-    '''
+    ''' 
+
     # Replace `pass` with your code.
     # Stay within the function. Only use the parameters as input. The function should return your answer.
     interest = int(principal * (rate * periods) + principal)
